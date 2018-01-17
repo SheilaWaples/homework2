@@ -1,0 +1,23 @@
+h1{
+ 	font-size: 125px;
+ 	float: left;
+ 	margin-left: 100px;
+
+}
+
+h4{
+
+}
+
+nav{height: 100px;
+
+	background-color: green;
+}
+
+li{
+
+	font-size: 25px;
+	display: inline;
+	float: left;
+	padding: 25px;
+}
