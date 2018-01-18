@@ -1,23 +1,22 @@
-h1{
- 	font-size: 125px;
- 	float: left;
- 	margin-left: 100px;
 
+
+#button1{
+
+	height: 200px;
+	width: 200px;
+	background-color: blue;
 }
 
-h4{
+#button2{
 
+	height: 200px;
+	width: 200px;
+	background-color: red;
 }
 
-nav{height: 100px;
+input{
 
-	background-color: green;
-}
+	margin-top: 20px;
+	margin-left: 5px;
 
-li{
-
-	font-size: 25px;
-	display: inline;
-	float: left;
-	padding: 25px;
 }
